@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{52459890-A97E-4B8F-9873-E75C93DFBFDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstASPNETWebApp/wwwroot/index.html">
+    <Files>
+      <File FileName="MyFirstASPNETWebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="MyFirstASPNETWebApp/Startup.cs" Line="24" Column="35" />
+      <File FileName="MyFirstASPNETWebApp/index.html" Line="6" Column="7" />
+      <File FileName="MyFirstASPNETWebApp/wwwroot/js/FanMail.js" Line="6" Column="34" />
+      <File FileName="MyFirstASPNETWebApp/wwwroot/css/default.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstASPNETWebApp" expanded="True">
+            <Node name="MyFirstASPNETWebApp" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="index.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFirstASPNETWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

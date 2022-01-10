@@ -3,5 +3,7 @@
         "Subject: \n" + $("#txtSubject").val() + "\n" +
         "Message: \n" + $("#txtMessage").val());
 
-    $("#picganderson").fadeToggle("slow");
+    $("#picganderson").fadeToggle("slow")
+
+    alert("Hello");
 })
